@@ -7,7 +7,7 @@ public class SimpleCalculator {
         Stack<Double> stack = new Stack<Double>();
 
         for (String item: items) {
-            // try/catch makes the solution shorter and cleaner - although it can surly be solved another way too
+            // try/catch makes the solution shorter and cleaner - although it can be solved another way too
             try {
                 stack.push(Double.parseDouble(item));
             } catch(Exception e) {      // a fit person should know it is NumberFormatException and use it instead of the generic Exception class
