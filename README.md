@@ -1,6 +1,6 @@
 # ReversePolishNotation
 
-A calculator for Reverse Polih Notation which is explained here:
+A calculator for Reverse Polish Notation which is explained here:
 https://mathworld.wolfram.com/ReversePolishNotation.html
 
 SimpleCalculator - a simple, junior like solution
